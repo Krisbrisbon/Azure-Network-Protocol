@@ -28,7 +28,5 @@ In this segment, we observe various network traffic to and from Azure Virtual Ma
 - Login To windows VM's and Observe SSH with PowerShell
 
 <h2>Actions and Observations</h2>
-
-<p>
-<img src="https://imgur.com/a/4tpUgnO.png" height="80%" width="80%" alt
+https://imgur.com/a/4tpUgnO.png 
 
